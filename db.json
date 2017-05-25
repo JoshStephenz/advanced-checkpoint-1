@@ -1,5 +1,156 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "poster_path": "/dr6x4GyyegBWtinPBzipY02J2lV.jpg",
+      "adult": false,
+      "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "release_date": "2005-06-14",
+      "original_title": "Batman Begins",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "id": 272,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Batman Begins",
+      "backdrop_path": "/65JWXDCAfwHhJKnDwRnEgVB411X.jpg",
+      "popularity": 8.056784,
+      "vote_count": 6146,
+      "video": false,
+      "vote_average": 7.4,
+      "_id": 1
+    },
+    {
+      "poster_path": "/hCsXZPXP0VVohf84oYC6iOBCN43.jpg",
+      "adult": false,
+      "overview": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
+      "release_date": "2004-06-25",
+      "original_title": "Spider-Man 2",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 558,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Spider-Man 2",
+      "backdrop_path": "/p2frIQykQPj3dXSYVOca60RQj9X.jpg",
+      "popularity": 2.464062,
+      "vote_count": 3454,
+      "video": false,
+      "vote_average": 6.5,
+      "_id": 5
+    },
+    {
+      "poster_path": "/9O7gLzmreU0nGkIB6K3BsJbzvNv.jpg",
+      "adult": false,
+      "overview": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "release_date": "1994-09-23",
+      "original_title": "The Shawshank Redemption",
+      "genre_ids": [
+        18,
+        80
+      ],
+      "id": 278,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "The Shawshank Redemption",
+      "backdrop_path": "/j9XKiZrVeViAixVRzCta7h1VU9W.jpg",
+      "popularity": 8.501938,
+      "vote_count": 7133,
+      "video": false,
+      "vote_average": 8.4,
+      "_id": 6
+    },
+    {
+      "poster_path": "/7y3eYvTsGjxPYDtSnumCLIMDkrV.jpg",
+      "adult": false,
+      "overview": "Joel Barish, heartbroken that his girlfriend underwent a procedure to erase him from her memory, decides to do the same. However, as he watches his memories of her fade away, he realises that he still loves her, and may be too late to correct his mistake.",
+      "release_date": "2004-03-19",
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "genre_ids": [
+        878,
+        18,
+        10749
+      ],
+      "id": 38,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "backdrop_path": "/1dXTsaFxHoF9cas08UjAqE8NqOW.jpg",
+      "popularity": 5.718404,
+      "vote_count": 2888,
+      "video": false,
+      "vote_average": 7.9,
+      "_id": 7
+    },
+    {
+      "poster_path": "/8L42Si3V0asMAUZqzjNChTc8q1b.jpg",
+      "adult": false,
+      "overview": "Inspired by films including \"Rattle and Hum\" and \"Endless Summer,\" Fading West follows Grammy-winning alternative-rock band Switchfoot as they travel the globe in search of new musical inspiration and perfect waves. Filmed during Switchfoot's 2012 World Tour, Fading West charts the creation of the fivesome's upcoming album in its earliest and most unpredictable stages. As the band visits legendary surf breaks in Australia, New Zealand, Africa, and Bali, brothers Jon and Tim Foreman breathe fresh life into their songs by harnessing the spirit of their surroundings and mining new emotional depths. Part rock documentary, surf film, and travelogue, Fading West offers rare glimpses of the longtime surfers on their boards, captures the frenetic energy of their live shows, and portrays a journey both epic and intimate.",
+      "release_date": "2013-12-09",
+      "original_title": "Fading West",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 248065,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Fading West",
+      "backdrop_path": "/fhSw86R8tCsTuEES1tFs4QJjPZT.jpg",
+      "popularity": 1.003208,
+      "vote_count": 4,
+      "video": false,
+      "vote_average": 6.3,
+      "_id": 8
+    },
+    {
+      "poster_path": "/8L42Si3V0asMAUZqzjNChTc8q1b.jpg",
+      "adult": false,
+      "overview": "Inspired by films including \"Rattle and Hum\" and \"Endless Summer,\" Fading West follows Grammy-winning alternative-rock band Switchfoot as they travel the globe in search of new musical inspiration and perfect waves. Filmed during Switchfoot's 2012 World Tour, Fading West charts the creation of the fivesome's upcoming album in its earliest and most unpredictable stages. As the band visits legendary surf breaks in Australia, New Zealand, Africa, and Bali, brothers Jon and Tim Foreman breathe fresh life into their songs by harnessing the spirit of their surroundings and mining new emotional depths. Part rock documentary, surf film, and travelogue, Fading West offers rare glimpses of the longtime surfers on their boards, captures the frenetic energy of their live shows, and portrays a journey both epic and intimate.",
+      "release_date": "2013-12-09",
+      "original_title": "Fading West",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 248065,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Fading West",
+      "backdrop_path": "/fhSw86R8tCsTuEES1tFs4QJjPZT.jpg",
+      "popularity": 1.003208,
+      "vote_count": 4,
+      "video": false,
+      "vote_average": 6.3,
+      "_id": 9
+    },
+    {
+      "poster_path": "/8L42Si3V0asMAUZqzjNChTc8q1b.jpg",
+      "adult": false,
+      "overview": "Inspired by films including \"Rattle and Hum\" and \"Endless Summer,\" Fading West follows Grammy-winning alternative-rock band Switchfoot as they travel the globe in search of new musical inspiration and perfect waves. Filmed during Switchfoot's 2012 World Tour, Fading West charts the creation of the fivesome's upcoming album in its earliest and most unpredictable stages. As the band visits legendary surf breaks in Australia, New Zealand, Africa, and Bali, brothers Jon and Tim Foreman breathe fresh life into their songs by harnessing the spirit of their surroundings and mining new emotional depths. Part rock documentary, surf film, and travelogue, Fading West offers rare glimpses of the longtime surfers on their boards, captures the frenetic energy of their live shows, and portrays a journey both epic and intimate.",
+      "release_date": "2013-12-09",
+      "original_title": "Fading West",
+      "genre_ids": [
+        10402,
+        99
+      ],
+      "id": 248065,
+      "media_type": "movie",
+      "original_language": "en",
+      "title": "Fading West",
+      "backdrop_path": "/fhSw86R8tCsTuEES1tFs4QJjPZT.jpg",
+      "popularity": 1.003208,
+      "vote_count": 4,
+      "video": false,
+      "vote_average": 6.3,
+      "_id": 10
+    }
+  ],
   "posts": [
     {
       "id": 1,
